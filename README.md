@@ -1,6 +1,6 @@
 # git-it-done
 
-A web application that searches GitHub for open source projects with open issues and pull requests. In this application, you can search GitHub repositories by either username or by three languages (Javascript, HTML, CSS).
+A web application that searches GitHub for open source projects with open issues and pull requests. In this application, you can search GitHub repositories by either username or by three languages (Javascript, HTML, CSS). You can also click on each repository and view its open issues and pull requests.
 
 ## Task List
 
